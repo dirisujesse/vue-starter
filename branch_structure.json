@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/autoprefixer-10.6.1",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3",
+    "dependabot/npm_and_yarn/tailwindcss/line-clamp-0.4.4",
+    "dependabot/npm_and_yarn/vite-8.3.4",
+    "dependabot/npm_and_yarn/vitejs/plugin-vue-6.0.10",
+    "dependabot/npm_and_yarn/vue-3.5.43",
+    "dependabot/npm_and_yarn/vue-router-5.4.0",
+    "main"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/autoprefixer-10.6.1": "main",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3": "main",
+    "dependabot/npm_and_yarn/tailwindcss/line-clamp-0.4.4": "main",
+    "dependabot/npm_and_yarn/vite-8.3.4": "main",
+    "dependabot/npm_and_yarn/vitejs/plugin-vue-6.0.10": "main",
+    "dependabot/npm_and_yarn/vue-3.5.43": "main",
+    "dependabot/npm_and_yarn/vue-router-5.4.0": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/autoprefixer-10.6.1",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3",
+    "dependabot/npm_and_yarn/tailwindcss/line-clamp-0.4.4",
+    "dependabot/npm_and_yarn/vite-8.3.4",
+    "dependabot/npm_and_yarn/vitejs/plugin-vue-6.0.10",
+    "dependabot/npm_and_yarn/vue-3.5.43",
+    "dependabot/npm_and_yarn/vue-router-5.4.0"
+  ]
+}
